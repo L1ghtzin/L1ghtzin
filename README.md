@@ -16,7 +16,6 @@ printf "Seja bem-vindo ao meu github"
 ## 💻  Oque você irá encontrar no meu github
 
 - Eu atualmente estou trabalhando nas seguintes organizações
-  **[@Channel-Projects](https://github.com/Channel-Projects)**, **[@M52XQ-Projects](https://github.com/M52XQ-Projects)**
+  **[@Channel-Projects](https://github.com/Channel-Projects)**
   
-[![Meu status do github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=L1ghtzin&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/L1ghtzin)
-[![As linguagens que eu uso](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=L1ghtzin&langs_count=8&theme=github_dark&hide_border=true&layout=compact)](https://github.com/L1ghtzin)
+[![Meu status do github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=L1ghtzin&show_icons=true&theme=github_dark&hide_border=true)]
