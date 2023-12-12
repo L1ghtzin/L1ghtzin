@@ -18,4 +18,4 @@ printf "Seja bem-vindo ao meu github"
 - Eu atualmente estou trabalhando nas seguintes organizações
   **[@Channel-Projects](https://github.com/Channel-Projects)**
   
-[![Meu status do github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=L1ghtzin&show_icons=true&theme=github_dark&hide_border=true)]
+![Meu status do github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=L1ghtzin&show_icons=true&theme=github_dark&hide_border=true)
