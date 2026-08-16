@@ -2,7 +2,9 @@
 **L1ghtzin/L1ghtzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi!%20I'm%20L1ghtzin&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Android%20/%20AOSP%20Developer%20%7C%20Hardware%20Modding&descAlignY=55&descAlign=50)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi!%20I'm%20L1ghtzin&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Android%20/%20AOSP%20Developer%20%7C%20Hardware%20Modding&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+</div>
 
 ### 👨‍💻 About me
 
@@ -14,14 +16,21 @@ Passionate developer with a strong interest in **Android Development**, compilin
 
 Check out the projects we are building at our organization:
 
-[![LavenderLabz](https://img.shields.io/badge/LavenderLabz-Organization-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LavenderLabz)
+<a href="https://github.com/LavenderLabz">
+  <img src="https://img.shields.io/badge/LavenderLabz-Organization-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="LavenderLabz" />
+</a>
 
 ---
 
 ### 📈 GitHub Stats
 
-[![L1ghtzin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=L1ghtzin&theme=tokyonight&hide_border=true)](https://github.com/L1ghtzin)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1ghtzin&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L1ghtzin&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+</div>
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer" />
+</div>
