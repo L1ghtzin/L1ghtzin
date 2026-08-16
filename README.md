@@ -26,7 +26,7 @@ Check out the projects we are building at our organization:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1ghtzin&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=L1ghtzin&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=L1ghtzin&theme=tokyonight&hide_border=true&show_icons=true" height="195" alt="GitHub Stats" />
 </div>
 
 <br/>
