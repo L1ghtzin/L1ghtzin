@@ -20,7 +20,7 @@ Check out the projects we are building at our organization:
 
 ### 📈 GitHub Stats
 
-[![L1ghtzin's Stats](https://github-readme-stats.vercel.app/api?username=L1ghtzin&theme=tokyonight&show_icons=true)](https://github.com/L1ghtzin)
+[![L1ghtzin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=L1ghtzin&theme=tokyonight&hide_border=true)](https://github.com/L1ghtzin)
 
 <br/>
 
