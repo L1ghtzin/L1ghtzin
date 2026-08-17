@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi!%20I'm%20L1ghtzin&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Android%20/%20AOSP%20Developer%20%7C%20Hardware%20Modding&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 </div>
 
-### 👨‍💻 About me
+### 👨💻 About me
 
 Passionate developer with a strong interest in **Android Development**, compiling and customizing **AOSP**, Kernel manipulation, and Hardware/BIOS Modding. 
 
@@ -25,7 +25,7 @@ Check out the projects we are building at our organization:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1ghtzin&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=L1ghtzin&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=L1ghtzin&theme=tokyonight&hide_border=true&show_icons=true" height="195" alt="GitHub Stats" />
 </div>
 
